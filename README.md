@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Nick (aka thehappycheese on github, EngineerNick on youtube)
-- 👀 Interested in Computer Algebra algorithims at the moment.
-- 🌱 I’m currently learning React and Redux for UI development.
-- 📫 How to reach me ... drop a comment on one of my youtube videos, EngineerNick https://www.youtube.com/c/EngineerNick
-- Visit my website EngineerNick.com to see some old web experiments.
+- 🙃 Hi, I’m Nick
+- 👀 Interested in Neural Networks at the moment
+- 🌱 I’m currently learning Keras / Tensorflow basics.
