@@ -1,3 +1,3 @@
 - 🙃 Hi, I’m Nick
-- 👀 Interested in Neural Networks at the moment
-- 🌱 I’m currently learning Keras / Tensorflow basics.
+- 👀 Interested in Geospatial Rust libraries at the moment
+- 🌱 I’m currently learning cloud resource management and CI / CD
