@@ -1,3 +1,3 @@
 - 🙃 Hi, I’m Nick
-- 👀 Interested in Geospatial Rust libraries at the moment
-- 🌱 I’m currently learning cloud resource management and CI / CD
+- 👀 Interested in Motion Planning for my custom 4axis CNC Foam Cutting machine.
+- 🌱 I’m currently learning how to build and fly an RC Airplane from scratch using foam wings.
